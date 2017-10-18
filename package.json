@@ -1,6 +1,6 @@
 {
   "name": "git-config-display-demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "show you current git configs in the terminal",
   "main": "index.js",
   "author": "bryan2",
