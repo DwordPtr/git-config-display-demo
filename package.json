@@ -1,8 +1,15 @@
 {
   "name": "git-config-display-demo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "show you current git configs in the terminal",
-  "main": "index.js",
+  "main": "git-config-demo.js",
+  "bin" : {
+		  "git-configs" : "./git-config-demo.js"
+  },
+  "repository" : {
+		  "type": "git",
+		  "url": "https://github.com/DwordPtr/git-config-display-demo"
+  },
   "author": "bryan2",
   "license": "MIT",
   "dependencies": {
