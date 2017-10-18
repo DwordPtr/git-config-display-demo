@@ -1,0 +1,12 @@
+{
+  "name": "git-config-display-demo",
+  "version": "1.0.0",
+  "description": "show you current git configs in the terminal",
+  "main": "index.js",
+  "author": "bryan2",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "git-config": "^0.0.7"
+  }
+}
